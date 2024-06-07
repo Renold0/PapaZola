@@ -2,3 +2,20 @@ papa zola
   - hari pertama belajar github
   - cara edit file ini atau mengubah 
 _ BRANCH
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>git dasar</title>
+</head>
+<body>
+    <h1>belajar git</h1>
+    <ul><li>
+        renold : 0808080808
+        rena : 0880808080
+        santo : 009090909
+    </li></ul>
+</body>
+</html>
